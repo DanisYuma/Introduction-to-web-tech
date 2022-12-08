@@ -1,0 +1,29 @@
+.container_for_text {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-around;
+    align-self: center;
+    width: 600pt;
+}
+
+h1 {
+    background-color: green;
+    align-content: center;
+}
+
+p {
+    color: red;
+}
+
+img {
+    width: 600px;
+    align-content: center;
+}
+html {
+    background-color: rgb(226, 246, 246);
+}
+a {
+    color: rgb(16, 242, 5);
+    font-weight: bold;
+}
