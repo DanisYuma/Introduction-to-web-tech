@@ -1,0 +1,25 @@
+.container_for_img {
+    display: flex;
+    flex-direction:column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+
+
+p {
+    color: red;
+}
+
+img {
+    width: 400px;
+}
+html {
+    background-color: aqua;
+}
+h1 {
+    color: red;
+}
+a {
+    color: pink;
+}
