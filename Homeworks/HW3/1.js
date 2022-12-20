@@ -9,14 +9,13 @@
 // градусы Фаренгейта = (9 / 5) * градусы Цельсия + 32
 // Примечания: Пользователь всегда вводит корректное число.
 
-const c = +prompt('Enter temperature in Celsius');
-const f = Math.round(fahrenheit(c) * 10) / 10;
-const result = f.toFixed(1);
+const celsium = +prompt('Enter temperature in Celsius');
+const fahrenheit = Math.round(celsiumToFahrenheit(celsium) * 10) / 10;
+const result = fahrenheit.toFixed(1);
 
-function fahrenheit(x)
-{
-    return x * (9/5) + 32;
+function celsiumToFahrenheit(celsium) {
+    return celsium * (9 / 5) + 32;
 }
 
-alert(`Temperature in Fahrenheit is ${f}`); // через Math.round()
-console.log(result);                        // через .toFixed()
+alert(`Temperature in Fahrenheit is ${fahrenheit}`); // через Math.round()
+console.log(fahrenheit);                        // через .toFixed()
