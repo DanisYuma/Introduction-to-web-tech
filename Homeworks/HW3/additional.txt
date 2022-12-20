@@ -13,3 +13,6 @@ https://disk.yandex.ru/d/dNcHjZs3c96ypw
 
 Сайт-учебник по изучению javascript: 
 https://learn.javascript.ru/
+
+Git book:
+https://git-scm.com/book/ru/v2
