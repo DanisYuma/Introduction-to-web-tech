@@ -16,3 +16,10 @@ https://learn.javascript.ru/
 
 Git book:
 https://git-scm.com/book/ru/v2
+
+песочницы из 4 лекции:
+compile php online -
+https://rextester.com/l/php_online_compiler
+https://onecompiler.com/
+
+external links
