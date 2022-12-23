@@ -1,4 +1,5 @@
-### Homework 5
+# Homework 5
+// Часть кода в .md не отображает. А иногда код ломает отображение. Оригинал ДЗ смотри в [.txt](homework_5.txt)
 ## Задача №1: проверить XML на Well formed:
 
 <req>
@@ -19,7 +20,7 @@
 
 ## Задача №2: проверить JSON на Well formed:
 
-```json
+
 {
 
         ""surname"": ""Иванов""
@@ -37,8 +38,7 @@
 }
 </aside>
 
-
-### Homework solution with commentary from the reviewer
+# Homework solution with commentary from the reviewer
 
 ## Задача №1: проверить XML на Well formed:
 
