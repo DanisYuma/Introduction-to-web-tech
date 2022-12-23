@@ -1,3 +1,6 @@
+### Homework 5
+## Задача №1: проверить XML на Well formed:
+
 <req>
 
         <surname>Иванов</surname>
@@ -14,7 +17,7 @@
 
 </req>
 
-**Задача №2:** проверить JSON на Well formed:
+## Задача №2: проверить JSON на Well formed:
 
 ```json
 {
@@ -34,9 +37,10 @@
 }
 </aside>
 
-Homework solution with commentary from the reviewer
 
-Задача №1: проверить XML на Well formed:
+### Homework solution with commentary from the reviewer
+
+## Задача №1: проверить XML на Well formed:
 
 Начинаться xml должен с <?xml version="1.0"?>, но, это если у нас начало документа, тут про это ничего не сказано, поэтому не придираюсь :)
 
@@ -60,8 +64,8 @@ Homework solution with commentary from the reviewer
 
 -----
 
-**Задача №2:** проверить JSON на Well formed:
-Задание 2:
+## Задача №2: проверить JSON на Well formed:
+
 1. двойные двойные кавычки
 2. нету запятых
 3. json в начале и </aside> в конце не нужны
